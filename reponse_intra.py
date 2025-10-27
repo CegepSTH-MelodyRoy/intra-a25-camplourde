@@ -42,3 +42,7 @@ def question2():
     plt.show()
 
 question2()
+
+# il me manque le y = 50000 pour le seuil de population (je ne me rappelais plus comment du mot à mettre après le plt pour faire cela)
+# je ne parvenais pas à faire en sorte que les points affichent une croissance
+
